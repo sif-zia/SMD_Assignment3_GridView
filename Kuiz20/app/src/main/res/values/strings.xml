@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kuiz2.0</string>
+    <string name="name_prompt">Enter Your Name</string>
+    <string name="launch_button_text">Next</string>
+</resources>
